@@ -1,0 +1,13 @@
+/* LiveMessages.css */
+
+.live-messages {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f2eded; /* Matches the chat background */
+  border-radius: 8px;
+}
+
+.message-item {
+  color: #ffffff; /* Text color */
+  margin: 5px 0;
+}
